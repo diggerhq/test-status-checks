@@ -28,7 +28,7 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           disable-locking: true
-          digger-hostname: 'https://a52e-5-151-139-90.ngrok-free.app '
+          digger-hostname: 'https://a52e-5-151-139-90.ngrok-free.app'
           digger-organisation: 'digger'
           digger-token: ${{ secrets.DIGGER_TOKEN }}
         env:
