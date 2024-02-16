@@ -1,0 +1,6 @@
+projects:
+  - name: dev
+    dir: dev
+  - name: prod
+    dir: prod
+    
